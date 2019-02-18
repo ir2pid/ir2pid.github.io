@@ -39,7 +39,7 @@
     - Working closely with marketing and sales teams to leverage maximum user retention and conversion.
     - Working with the management team to study user behaviour using analytics and introducing features
     
-- **Accenture India Pvt Ltd (Frankfurt am Main/Pune) Sept 2013 - March 2017** 
+- **[Accenture] (Frankfurt am Main/Pune) Sept 2013 - March 2017** 
  _Commerzbank banking app (Senior Software Engineer)_
     - Collaborated with the 2nd largest bank of Germany to digitise their banking services on iOS and Android. Work on build scripts, continuous integration and delivery.
     - Took over the critical task of ensuring app security for the Bank’s apps.
@@ -47,16 +47,16 @@
     - Main POC with external agencies hired for analysing app security and code quality.
     - Worked with colleagues from more than 13 nationalities and lead multicultural teams
 
-- **WebSpiders India Pvt Ltd (Kolkata) Mar 2013 - July 2013** 
+- **[WebSpiders] (Kolkata) Mar 2013 - July 2013** 
  _LuckyLink(Application Developer)_
     - Worked as lead iOS developer and as a point of contact for our French clients.
 
-- **e-Force India Pvt Ltd (Kolkata) Sept 2010 - Mar 2013** 
+- **[e-Force] (Kolkata) Sept 2010 - Mar 2013** 
  _Context Wallet(Software Programer)_
     - Coordination and alignment with the mobile teams and backend teams. 
     - Acted as a point of contact with our main office in Huston Texas.
     - 
-- **Cognizant Technology Solutions India Pvt Ltd (Kolkata) July 2010 - Sept 2010** 
+- **[Cognizant] (Kolkata) July 2010 - Sept 2010** 
  _(Software analyst trainee)_
     - Joined as a trainee and left during the training phase to pursue product development as a career.
     
@@ -82,10 +82,10 @@
 - Represented local club for under 13 and 15 club cricket in Cricket Association of Bengal’s inter club tournaments 
 - Played for school and class team in cricket and soccer.
 
-
-
-
-
+[Cognizant]<https://www.cognizant.com/en_us>
+[e-Force]<https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925>
+[WebSpiders]<https://www.webspiders.com/>
+[Accenture]<https://www.accenture.com/in-en/company>
    [ePay GmbH]:<http://www.epay.de>
    [lynda]: <http://www.lynda.com>
    [Euronet worldwide]: <https://euronetworldwide.com>
