@@ -25,13 +25,13 @@
 
 ## Experience
 
-- **[ePay GmbH] (Munich) Nov 2018 - present** 
+- **[ePay GmbH]:(http://www.epay.de) (Munich) Nov 2018 - present** 
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
 
-    - Maintaining and creating new apps for [Euronet worldwide] subsideries and clients
+    - Maintaining and creating new apps for [Euronet worldwide]: (https://euronetworldwide.com) subsideries and clients
     
     
-- **[Skoobe GmbH] (Munich) April 2017 - Nov 2018** 
+- **[Skoobe GmbH]: (http://www.skoobe.de) (Munich) April 2017 - Nov 2018** 
  _Overseeing all mobile development including Android and iOS (Senior App Developer)_
     - Leading the mobile team, implementing new features, evaluating new technologies and maintaining our mobile products. 
     - Improving and maintaining our continuous integration and delivery platform.
@@ -39,7 +39,7 @@
     - Working closely with marketing and sales teams to leverage maximum user retention and conversion.
     - Working with the management team to study user behaviour using analytics and introducing features
     
-- **[Accenture] (Frankfurt am Main/Pune) Sept 2013 - March 2017** 
+- **[Accenture](https://www.accenture.com/in-en/company) (Frankfurt am Main/Pune) Sept 2013 - March 2017** 
  _Commerzbank banking app (Senior Software Engineer)_
     - Collaborated with the 2nd largest bank of Germany to digitise their banking services on iOS and Android. Work on build scripts, continuous integration and delivery.
     - Took over the critical task of ensuring app security for the Bank’s apps.
@@ -47,11 +47,11 @@
     - Main POC with external agencies hired for analysing app security and code quality.
     - Worked with colleagues from more than 13 nationalities and lead multicultural teams
 
-- **[WebSpiders] (Kolkata) Mar 2013 - July 2013** 
+- **[WebSpiders](https://www.webspiders.com/) (Kolkata) Mar 2013 - July 2013** 
  _LuckyLink(Application Developer)_
     - Worked as lead iOS developer and as a point of contact for our French clients.
 
-- **[e-Force] (Kolkata) Sept 2010 - Mar 2013** 
+- **[e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925) (Kolkata) Sept 2010 - Mar 2013** 
  _Context Wallet(Software Programer)_
     - Coordination and alignment with the mobile teams and backend teams. 
     - Acted as a point of contact with our main office in Huston Texas.
@@ -63,7 +63,7 @@
 ## Extra curricular activities
 #### Awards/Recognitions:
 
-- Recipient of Google Developer Challenge Scholarship in android stack 2017. 10+ certifications from [Lynda] on various mobile courses.
+- Recipient of Google Developer Challenge Scholarship in android stack 2017. 10+ certifications from  [lynda]: (http://www.lynda.com) on various mobile courses.
 - Samsung app of the year award 2011 for our game Find a Way Jose
 - CCB Award for excellent performance in project, 2015 (Accenture)
 - 3 Blackberry playbook from Research In Motion for adding valuable apps to their store
@@ -83,10 +83,10 @@
 - Played for school and class team in cricket and soccer.
 
 
-[e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925)
-[WebSpiders](https://www.webspiders.com/)
-[Accenture](https://www.accenture.com/in-en/company)
-   [ePay GmbH]:(http://www.epay.de)
-   [lynda]: (http://www.lynda.com)
-   [Euronet worldwide]: (https://euronetworldwide.com)
-   [Skoobe GmbH]: (http://www.skoobe.de)
+
+
+
+   
+  
+   
+   
