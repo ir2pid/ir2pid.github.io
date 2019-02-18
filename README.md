@@ -4,10 +4,10 @@
 
 
 
-### About me:
+## About me:
 > 7 years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of Skoobe’s Mobile team overseeing our mobile app development.
 
-### Education:
+## Education:
 
 | University | | Duration | Score|
 | ------ | ------ | ------ | ------ |
@@ -15,7 +15,7 @@
 | B.P.P.IMT (West Bengal Institute of Technology)| **Masters of Computer Application** | Aug2007 - Apr2010 | **8.7/10.0** |
 | B.P.P.IMT (West Bengal Institute of Technology) | **Bachelors of Computer Application** | May2004 - Jun2007 | **8.2/10.0** |
 
-### Expertise:
+## Expertise:
 
 | Level | Skills|
 | ------ | ------ |
@@ -23,7 +23,7 @@
 |Average|iOS, Objective C, Kotlin, Angular, Gradle, Continuous Integration, Continuous deployment, bash script, mobile security, Firebase, Jenkins, Appium, test driven development.|
 |Low|Swift, Javascript, J2EE, ant, photoshop.|
 
-### Experience
+## Experience
 
 - **[ePay GmbH] (Munich) Nov 2018 - present** 
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
@@ -60,8 +60,8 @@
  _(Software analyst trainee)_
     - Joined as a trainee and left during the training phase to pursue product development as a career.
     
-### Extra curricular activities
-###### Awards/Recognitions:
+## Extra curricular activities
+#### Awards/Recognitions:
 
 - Recipient of Google Developer Challenge Scholarship in android stack 2017. 10+ certifications from [Lynda] on various mobile courses.
 - Samsung app of the year award 2011 for our game Find a Way Jose
@@ -70,14 +70,14 @@
 - Won a BADA OS developer books from Samsung for adding valuable apps to their store
 
 
-###### Initiatives/Position held
+#### Initiatives/Position held
 - NGO work for Abheda Foundation, in charge of delivering educational apps for teaching children in rural classrooms 
 - Worked with designers and engineers from Israel, corresponding only through mail and chat to create games for mobile 
 - Participate in coding competitions like GoogleCodeJam and HackerEarth
 - Open source contributor in Github
 - Active involvement in coding communities like stackoverflow
 
-###### Sports
+#### Sports
 - Sports enthusiasts, play games like Soccer, Cricket, Badminton, Table tennis
 - Represented local club for under 13 and 15 club cricket in Cricket Association of Bengal’s inter club tournaments 
 - Played for school and class team in cricket and soccer.
