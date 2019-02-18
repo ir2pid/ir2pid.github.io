@@ -56,7 +56,7 @@
     - Coordination and alignment with the mobile teams and backend teams. 
     - Acted as a point of contact with our main office in Huston Texas.
     - 
-- **[Cognizant] (Kolkata) July 2010 - Sept 2010** 
+- **[Cognizant](https://www.cognizant.com/en_us) (Kolkata) July 2010 - Sept 2010** 
  _(Software analyst trainee)_
     - Joined as a trainee and left during the training phase to pursue product development as a career.
     
@@ -82,11 +82,11 @@
 - Represented local club for under 13 and 15 club cricket in Cricket Association of Bengal’s inter club tournaments 
 - Played for school and class team in cricket and soccer.
 
-[Cognizant]<https://www.cognizant.com/en_us>
-[e-Force]<https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925>
-[WebSpiders]<https://www.webspiders.com/>
-[Accenture]<https://www.accenture.com/in-en/company>
-   [ePay GmbH]:<http://www.epay.de>
-   [lynda]: <http://www.lynda.com>
-   [Euronet worldwide]: <https://euronetworldwide.com>
-   [Skoobe GmbH]: <http://www.skoobe.de> 
+
+[e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925)
+[WebSpiders](https://www.webspiders.com/)
+[Accenture](https://www.accenture.com/in-en/company)
+   [ePay GmbH]:(http://www.epay.de)
+   [lynda]: (http://www.lynda.com)
+   [Euronet worldwide]: (https://euronetworldwide.com)
+   [Skoobe GmbH]: (http://www.skoobe.de)
