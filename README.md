@@ -25,13 +25,13 @@
 
 ## Experience
 
-- **[ePay GmbH]:(http://www.epay.de) (Munich) Nov 2018 - present** 
+- **[ePay GmbH](http://www.epay.de) (Munich) Nov 2018 - present** 
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
 
-    - Maintaining and creating new apps for [Euronet worldwide]: (https://euronetworldwide.com) subsideries and clients
+    - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients
     
     
-- **[Skoobe GmbH]: (http://www.skoobe.de) (Munich) April 2017 - Nov 2018** 
+- **[Skoobe GmbH](http://www.skoobe.de) (Munich) April 2017 - Nov 2018** 
  _Overseeing all mobile development including Android and iOS (Senior App Developer)_
     - Leading the mobile team, implementing new features, evaluating new technologies and maintaining our mobile products. 
     - Improving and maintaining our continuous integration and delivery platform.
@@ -63,7 +63,7 @@
 ## Extra curricular activities
 #### Awards/Recognitions:
 
-- Recipient of Google Developer Challenge Scholarship in android stack 2017. 10+ certifications from  [lynda]: (http://www.lynda.com) on various mobile courses.
+- Recipient of Google Developer Challenge Scholarship in android stack 2017. 10+ certifications from  [lynda](http://www.lynda.com) on various mobile courses.
 - Samsung app of the year award 2011 for our game Find a Way Jose
 - CCB Award for excellent performance in project, 2015 (Accenture)
 - 3 Blackberry playbook from Research In Motion for adding valuable apps to their store
