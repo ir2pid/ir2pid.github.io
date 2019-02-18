@@ -1,5 +1,5 @@
 
-# Sudipta Dutta
+# Resume
 [![HackerEarth](https://img.shields.io/badge/Hacker_Earth-Profile-blue.svg?style=square&logo=hackster)](https://www.hackerearth.com/@ir2pid)  [![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-orange.svg?square&logo=stackoverflow)](https://stackoverflow.com/users/838355/ir2pid) [![Github](https://img.shields.io/badge/Github-Profile-black.svg?style=square&logo=github)](https://github.com/ir2pid/) [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=square&logo=linkedin)](https://github.com/ir2pid/)
 
 
