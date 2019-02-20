@@ -5,7 +5,7 @@
 
 
 ## About me:
-> 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of Skoobe’s Mobile team overseeing our mobile app development.
+> 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of ePay Gmbh’s Mobile team overseeing our all our mobile app development.
 
 ## Education:
 
