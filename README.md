@@ -29,15 +29,19 @@
 ## Experience
 
 - **[ePay GmbH](http://www.epay.de) (Munich) Nov 2018 - present** 
-<br><a href="https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2013-04-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a> <a href="https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;" /></a>
+<br>
+<a href="https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2013-04-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a> <a href="https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;" /></a>
+<br>
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
 
     - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients
     
     
 - **[Skoobe GmbH](http://www.skoobe.de) (Munich) April 2017 - Nov 2018** 
-<br><a href="https://itunes.apple.com/fr/app/commerzbank-banking/id366609901?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2010-04-13&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a> <a href="https://play.google.com/store/apps/details?id=net.skoobe.reader&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;"/></a>
- _Overseeing all mobile development including Android and iOS (Senior App Developer)_
+<br>
+<a href="https://itunes.apple.com/fr/app/commerzbank-banking/id366609901?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2010-04-13&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a> <a href="https://play.google.com/store/apps/details?id=net.skoobe.reader&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;"/></a> 
+<br>
+_Overseeing all mobile development including Android and iOS (Senior App Developer)_
     - Leading the mobile team, implementing new features, evaluating new technologies and maintaining our mobile products. 
     - Improving and maintaining our continuous integration and delivery platform.
     - Working with testers, setting up automated test environments.
@@ -45,8 +49,9 @@
     - Working with the management team to study user behaviour using analytics and introducing features
     
 - **[Accenture](https://www.accenture.com/in-en/company) (Frankfurt am Main/Pune) Sept 2013 - March 2017** 
-<br><a href="https://itunes.apple.com/de/app/commerzbank-banking/id366609901?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2010-04-13&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a> <a href="https://play.google.com/store/apps/details?id=de.commerzbanking.mobil&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;"/></a>
-
+<br>
+<a href="https://itunes.apple.com/de/app/commerzbank-banking/id366609901?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2010-04-13&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a> <a href="https://play.google.com/store/apps/details?id=de.commerzbanking.mobil&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;"/></a>
+<br>
  _Commerzbank banking app (Senior Software Engineer)_
     - Collaborated with the 2nd largest bank of Germany to digitise their banking services on iOS and Android. Work on build scripts, continuous integration and delivery.
     - Took over the critical task of ensuring app security for the Bank’s apps.
@@ -55,8 +60,10 @@
     - Worked with colleagues from more than 13 nationalities and lead multicultural teams
 
 - **[WebSpiders](https://www.webspiders.com/) (Kolkata) Mar 2013 - July 2013** 
-<br><a href="https://play.google.com/store/apps/details?id=karma.scommerce.bmk&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" ><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;"/></a>
- _LuckyLink(Application Developer)_
+<br>
+<a href="https://play.google.com/store/apps/details?id=karma.scommerce.bmk&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" ><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;"/></a> 
+<br>
+_LuckyLink(Application Developer)_
     - Worked as lead iOS developer and as a point of contact for our French clients.
 
 - **[e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925) (Kolkata) Sept 2010 - Mar 2013** 
@@ -90,11 +97,3 @@
 - Represented local club for under 13 and 15 club cricket in Cricket Association of Bengal’s inter club tournaments 
 - Played for school and class team in cricket and soccer.
 
-
-
-
-
-   
-  
-   
-   
