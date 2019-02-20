@@ -40,7 +40,6 @@
 - **[Skoobe GmbH](http://www.skoobe.de) (Munich) April 2017 - Nov 2018** 
 <br>
 | iOS | Android|
-| ------ | ------ | 
 |<a href="https://itunes.apple.com/fr/app/commerzbank-banking/id366609901?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2010-04-13&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>|<a href="https://play.google.com/store/apps/details?id=net.skoobe.reader&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:190px;height:56px;"/></a>| 
 <br>
 _Overseeing all mobile development including Android and iOS (Senior App Developer)_
