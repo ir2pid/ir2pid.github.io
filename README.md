@@ -29,11 +29,8 @@
 ## Experience
 
 - **[ePay GmbH](http://www.epay.de) (Munich) Nov 2018 - present** 
+<a href="https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2013-04-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 <a
-  href="https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8"
-  style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2013-04-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"
-></a
-><a
   href="https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
   ><img
     alt="Get it on Google Play"
