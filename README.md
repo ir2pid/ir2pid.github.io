@@ -5,7 +5,7 @@
 
 
 ## About me:
-> 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of ePay Gmbh’s Mobile team overseeing our all our mobile app development.
+> 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of [ePay GmbH's](http://www.epay.de) Mobile team overseeing our all our mobile app development.
 
 ## Education:
 
@@ -23,6 +23,9 @@
 |Average|iOS, Objective C, Kotlin, Angular, Gradle, Continuous Integration, Continuous deployment, bash script, mobile security, Firebase, Jenkins, Appium, test driven development.|
 |Low|Swift, Javascript, J2EE, ant, photoshop.|
 
+# Portfolio
+
+
 ## Experience
 
 - **[ePay GmbH](http://www.epay.de) (Munich) Nov 2018 - present** 
@@ -32,6 +35,7 @@
     
     
 - **[Skoobe GmbH](http://www.skoobe.de) (Munich) April 2017 - Nov 2018** 
+<a href="https://itunes.apple.com/de/app/skoobe-die-ebook-flatrate/id425361265?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2011-05-31&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
  _Overseeing all mobile development including Android and iOS (Senior App Developer)_
     - Leading the mobile team, implementing new features, evaluating new technologies and maintaining our mobile products. 
     - Improving and maintaining our continuous integration and delivery platform.
