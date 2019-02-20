@@ -29,7 +29,7 @@
 - [ePay GmbH](http://www.epay.de) **(Munich) Nov 2018 - present** <br>
 [![iOS](https://img.shields.io/badge/iOS-Lendstar-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8) [![Android](https://img.shields.io/badge/Android-Lendstar-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de) [![iOS](https://img.shields.io/badge/iOS-Bay-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/cy/app/bay-lendstar-geld-senden/id1141022152) [![Android](https://img.shields.io/badge/Android-Bay-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.bay.app&hl=en) <br>
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
-    - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients
+    - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients.
     
     
 - [Skoobe GmbH](http://www.skoobe.de) **(Munich) April 2017 - Nov 2018** <br>
@@ -39,7 +39,7 @@
     - Improving and maintaining our continuous integration and delivery platform.
     - Working with testers, setting up automated test environments.
     - Working closely with marketing and sales teams to leverage maximum user retention and conversion.
-    - Working with the management team to study user behaviour using analytics and introducing features
+    - Working with the management team to study user behaviour using analytics and introducing features.
     
 - [Accenture](https://www.accenture.com/in-en/company) **(Frankfurt am Main/Pune) Sept 2013 - March 2017** <br>
 [![iOS](https://img.shields.io/badge/iOS-Commerzbank-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/commerzbank-banking/id366609901?mt=8) [![Android](https://img.shields.io/badge/Android-Commerzbank-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.commerzbanking.mobil&hl=en) <br>
@@ -48,7 +48,7 @@
     - Took over the critical task of ensuring app security for the Bank’s apps.
     - Present monthly sprint demos to clients and leadership.
     - Main POC with external agencies hired for analysing app security and code quality.
-    - Worked with colleagues from more than 13 nationalities and lead multicultural teams
+    - Worked with colleagues from more than 13 nationalities and lead multicultural teams.
    
 - [WebSpiders](https://www.webspiders.com/) **(Kolkata) Mar 2013 - July 2013** <br> [![Android](https://img.shields.io/badge/Android-Luckylink-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=karma.scommerce.bmk&hl=en) <br>
  _LuckyLink(Application Developer)_
@@ -67,22 +67,22 @@
 #### Awards/Recognitions:
 
 - Recipient of Google Developer Challenge Scholarship in android stack 2017. 10+ certifications from  [lynda](http://www.lynda.com) on various mobile courses.
-- Samsung app of the year award 2011 for our game Find a Way Jose
-- CCB Award for excellent performance in project, 2015 (Accenture)
-- 3 Blackberry playbook from Research In Motion for adding valuable apps to their store
-- Won a BADA OS developer books from Samsung for adding valuable apps to their store
+- Samsung app of the year award 2011 for our game Find a Way Jose.
+- CCB Award for excellent performance in project, 2015 (Accenture).
+- 3 Blackberry playbook from Research In Motion for adding valuable apps to their store.
+- Won a BADA OS developer books from Samsung for adding valuable apps to their store.
 
 
 #### Initiatives/Position held
-- NGO work for [Abheda Foundation](https://abhedafoundation.org), in charge of delivering educational apps for teaching children in rural classrooms
+- NGO work for [Abheda Foundation](https://abhedafoundation.org), to deliver educational apps for teaching children in rural classrooms.
  <br> [![Android](https://img.shields.io/badge/Android-Abheda_Bengali-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.noisyninja.abheda_droid) [![Android](https://img.shields.io/badge/Android-Abheda_Hindi-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.noisyninja.abheda_droid_hindi) <br>
-- Worked with designers and engineers from Israel, corresponding only through mail and chat to create games for mobile 
-- Participate in coding competitions like GoogleCodeJam and HackerEarth
-- Open source contributor in Github
-- Active involvement in coding communities like stackoverflow
+- Worked with designers and engineers from Israel, corresponding only through mail and chat to create games for mobile.
+- Participate in coding competitions like GoogleCodeJam and HackerEarth.
+- Open source contributor in Github.
+- Active involvement in coding communities like stackoverflow.
 
 #### Sports
-- Sports enthusiasts, play games like Soccer, Cricket, Badminton, Table tennis
-- Represented local club for under 13 and 15 club cricket in Cricket Association of Bengal’s inter club tournaments 
+- Sports enthusiasts, play games like Soccer, Cricket, Badminton, Table tennis.
+- Represented local club for under 13 and 15 club cricket in Cricket Association of Bengal’s inter club tournaments. 
 - Played for school and class team in cricket and soccer.
 
