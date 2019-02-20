@@ -2,9 +2,6 @@
 # Resume
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-orange.svg?square&logo=stackoverflow)](https://stackoverflow.com/users/838355/ir2pid) [![Github](https://img.shields.io/badge/Github-Profile-black.svg?style=square&logo=github)](https://github.com/ir2pid/) [![HackerEarth](https://img.shields.io/badge/Hacker_Earth-Profile-blue.svg?style=square&logo=hackster)](https://www.hackerearth.com/@ir2pid) [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=square&logo=linkedin)](https://linkedin.com/in/ir2pid/)
 
-
-[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)]("https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8") [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de)
-
 ## About me:
 > 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of [ePay GmbH's](http://www.epay.de) Mobile team overseeing our all our mobile app development.
 
@@ -30,14 +27,14 @@
 ## Experience
 
 - **[ePay GmbH](http://www.epay.de) (Munich) Nov 2018 - present** <br>
-[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)]("https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8") [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de)
+[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8) [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de)
 
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
    - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients
     
     
 - **[Skoobe GmbH](http://www.skoobe.de) (Munich) April 2017 - Nov 2018** <br>
-[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)]("https://itunes.apple.com/fr/app/commerzbank-banking/id366609901?mt=8") [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=net.skoobe.reader&hl=en)
+[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/fr/app/commerzbank-banking/id366609901?mt=8) [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=net.skoobe.reader&hl=en)
 
 _Overseeing all mobile development including Android and iOS (Senior App Developer)_
     - Leading the mobile team, implementing new features, evaluating new technologies and maintaining our mobile products. 
@@ -47,7 +44,7 @@ _Overseeing all mobile development including Android and iOS (Senior App Develop
     - Working with the management team to study user behaviour using analytics and introducing features
     
 - **[Accenture](https://www.accenture.com/in-en/company) (Frankfurt am Main/Pune) Sept 2013 - March 2017** <br>
-[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)]("https://itunes.apple.com/de/app/commerzbank-banking/id366609901?mt=8") [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.commerzbanking.mobil&hl=en)
+[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/commerzbank-banking/id366609901?mt=8) [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.commerzbanking.mobil&hl=en)
  
  _Commerzbank banking app (Senior Software Engineer)_
     - Collaborated with the 2nd largest bank of Germany to digitise their banking services on iOS and Android. Work on build scripts, continuous integration and delivery.
