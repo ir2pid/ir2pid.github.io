@@ -3,7 +3,7 @@
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-orange.svg?square&logo=stackoverflow)](https://stackoverflow.com/users/838355/ir2pid) [![Github](https://img.shields.io/badge/Github-Profile-black.svg?style=square&logo=github)](https://github.com/ir2pid/) [![HackerEarth](https://img.shields.io/badge/Hacker_Earth-Profile-blue.svg?style=square&logo=hackster)](https://www.hackerearth.com/@ir2pid) [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=square&logo=linkedin)](https://linkedin.com/in/ir2pid/)
 
 
-[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)](https://github.com/ir2pid/) [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://www.hackerearth.com/@ir2pid)
+[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)]("https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8") [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de)
 
 ## About me:
 > 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of [ePay GmbH's](http://www.epay.de) Mobile team overseeing our all our mobile app development.
@@ -30,10 +30,8 @@
 ## Experience
 
 - **[ePay GmbH](http://www.epay.de) (Munich) Nov 2018 - present** 
-<br>
-<a href="https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2013-04-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a> <a href="https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" style="width:180px;height:64px;" /></a>
-<a href="https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8" style="display:inline-block;overflow:hidden;background:url(https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png) no-repeat;width:135px;height:40px;"></a>
-<br>
+[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)]("https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8") [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de)
+
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
 
     - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients
