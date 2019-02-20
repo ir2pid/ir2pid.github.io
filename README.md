@@ -30,6 +30,7 @@
 
 - **[ePay GmbH](http://www.epay.de) (Munich) Nov 2018 - present** 
 <a href="https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2013-04-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
+
 <a
   href="https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
   ><img
@@ -43,11 +44,8 @@
     
     
 - **[Skoobe GmbH](http://www.skoobe.de) (Munich) April 2017 - Nov 2018** 
+<a href="https://itunes.apple.com/de/app/skoobe-die-ebook-flatrate/id425361265?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2011-05-31&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 <a
-  href="https://itunes.apple.com/de/app/skoobe-die-ebook-flatrate/id425361265?mt=8"
-  style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2011-05-31&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"
-></a
-><a
   href="https://play.google.com/store/apps/details?id=net.skoobe.reader&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
   ><img
     alt="Get it on Google Play"
@@ -62,10 +60,7 @@
     - Working with the management team to study user behaviour using analytics and introducing features
     
 - **[Accenture](https://www.accenture.com/in-en/company) (Frankfurt am Main/Pune) Sept 2013 - March 2017** 
-<a
-  href="https://itunes.apple.com/de/app/commerzbank-banking/id366609901?mt=8"
-  style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2010-04-13&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"
-></a>
+<a href="https://itunes.apple.com/de/app/commerzbank-banking/id366609901?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/de-de/badge-lrg.svg?releaseDate=2010-04-13&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 <a
   href="https://play.google.com/store/apps/details?id=de.commerzbanking.mobil&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
   ><img
