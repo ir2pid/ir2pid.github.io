@@ -27,7 +27,8 @@
 ## Experience
 
 - **(Munich) Nov 2018 - present** [ePay GmbH](http://www.epay.de) <br>
-[![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8) [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de) <br>
+[![iOS](https://img.shields.io/badge/iOS-Lendstar-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8) [![Android](https://img.shields.io/badge/Android-Lendstar-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de) <br><br>
+[![iOS](https://img.shields.io/badge/iOS-Bayr-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/cy/app/bay-lendstar-geld-senden/id1141022152) [![Android](https://img.shields.io/badge/Android-Bay-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.bay.app&hl=en) <br>
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
     - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients
     
