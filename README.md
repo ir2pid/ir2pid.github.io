@@ -58,7 +58,7 @@
  _Context Wallet(Software Programer)_
     - Coordination and alignment with the mobile teams and backend teams. 
     - Acted as a point of contact with our main office in Huston Texas.
-    - 
+     
 - [Cognizant](https://www.cognizant.com/en_us) **(Kolkata) July 2010 - Sept 2010** <br>
  _(Software analyst trainee)_
     - Joined as a trainee and left during the training phase to pursue product development as a career.
