@@ -74,7 +74,8 @@
 
 
 #### Initiatives/Position held
-- NGO work for Abheda Foundation, in charge of delivering educational apps for teaching children in rural classrooms 
+- NGO work for [Abheda Foundation](https://abhedafoundation.org), in charge of delivering educational apps for teaching children in rural classrooms
+ <br> [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/developer?id=Abheda+Foundation) <br>
 - Worked with designers and engineers from Israel, corresponding only through mail and chat to create games for mobile 
 - Participate in coding competitions like GoogleCodeJam and HackerEarth
 - Open source contributor in Github
