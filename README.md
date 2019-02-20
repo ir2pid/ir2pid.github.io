@@ -3,7 +3,7 @@
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-orange.svg?square&logo=stackoverflow)](https://stackoverflow.com/users/838355/ir2pid) [![Github](https://img.shields.io/badge/Github-Profile-black.svg?style=square&logo=github)](https://github.com/ir2pid/) [![HackerEarth](https://img.shields.io/badge/Hacker_Earth-Profile-blue.svg?style=square&logo=hackster)](https://www.hackerearth.com/@ir2pid) [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=square&logo=linkedin)](https://linkedin.com/in/ir2pid/)
 
 
-[![iOS](https://img.shields.io/badge/Github-Profile-white.svg?style=square&logo=apple)](https://github.com/ir2pid/) [![Android](https://img.shields.io/badge/Hacker_Earth-Profile-green.svg?style=square&logo=android)](https://www.hackerearth.com/@ir2pid)
+[![iOS](https://img.shields.io/badge/Github-Profile-9cf.svg?style=square&logo=apple)](https://github.com/ir2pid/) [![Android](https://img.shields.io/badge/Hacker_Earth-Profile-green.svg?style=square&logo=android)](https://www.hackerearth.com/@ir2pid)
 
 ## About me:
 > 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of [ePay GmbH's](http://www.epay.de) Mobile team overseeing our all our mobile app development.
