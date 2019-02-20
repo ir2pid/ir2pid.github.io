@@ -26,13 +26,13 @@
 
 ## Experience
 
-- **[ePay GmbH](http://www.epay.de) (Munich) Nov 2018 - present** <br>
+- **(Munich) Nov 2018 - present** [ePay GmbH](http://www.epay.de) <br>
 [![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8) [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de) <br>
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
     - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients
     
     
-- **[Skoobe GmbH](http://www.skoobe.de) (Munich) April 2017 - Nov 2018** <br>
+- **(Munich) April 2017 - Nov 2018** [Skoobe GmbH](http://www.skoobe.de) <br>
 [![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/fr/app/commerzbank-banking/id366609901?mt=8) [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=net.skoobe.reader&hl=en) <br>
  _Overseeing all mobile development including Android and iOS (Senior App Developer)_
     - Leading the mobile team, implementing new features, evaluating new technologies and maintaining our mobile products. 
@@ -41,7 +41,7 @@
     - Working closely with marketing and sales teams to leverage maximum user retention and conversion.
     - Working with the management team to study user behaviour using analytics and introducing features
     
-- **[Accenture](https://www.accenture.com/in-en/company) (Frankfurt am Main/Pune) Sept 2013 - March 2017** <br>
+- **(Frankfurt am Main/Pune) Sept 2013 - March 2017** [Accenture](https://www.accenture.com/in-en/company) <br>
 [![iOS](https://img.shields.io/badge/iOS-iTunes-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/commerzbank-banking/id366609901?mt=8) [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.commerzbanking.mobil&hl=en) <br>
  _Commerzbank banking app (Senior Software Engineer)_
     - Collaborated with the 2nd largest bank of Germany to digitise their banking services on iOS and Android. Work on build scripts, continuous integration and delivery.
@@ -50,16 +50,16 @@
     - Main POC with external agencies hired for analysing app security and code quality.
     - Worked with colleagues from more than 13 nationalities and lead multicultural teams
    
-- **[WebSpiders](https://www.webspiders.com/) (Kolkata) Mar 2013 - July 2013** <br> [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=karma.scommerce.bmk&hl=en) <br>
+- **(Kolkata) Mar 2013 - July 2013** [WebSpiders](https://www.webspiders.com/) <br> [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=karma.scommerce.bmk&hl=en) <br>
  _LuckyLink(Application Developer)_
     - Worked as lead iOS developer and as a point of contact for our French clients.
 
-- **[e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925) (Kolkata) Sept 2010 - Mar 2013** 
+- **(Kolkata) Sept 2010 - Mar 2013** [e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925) 
  _Context Wallet(Software Programer)_
     - Coordination and alignment with the mobile teams and backend teams. 
     - Acted as a point of contact with our main office in Huston Texas.
     - 
-- **[Cognizant](https://www.cognizant.com/en_us) (Kolkata) July 2010 - Sept 2010** 
+- **(Kolkata) July 2010 - Sept 2010** [Cognizant](https://www.cognizant.com/en_us) 
  _(Software analyst trainee)_
     - Joined as a trainee and left during the training phase to pursue product development as a career.
     
