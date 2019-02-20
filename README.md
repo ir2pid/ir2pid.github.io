@@ -54,12 +54,12 @@
  _LuckyLink(Application Developer)_
     - Worked as lead iOS developer and as a point of contact for our French clients.
 
-- **(Kolkata) Sept 2010 - Mar 2013** [e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925) 
+- **(Kolkata) Sept 2010 - Mar 2013** [e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925)<br> 
  _Context Wallet(Software Programer)_
     - Coordination and alignment with the mobile teams and backend teams. 
     - Acted as a point of contact with our main office in Huston Texas.
     - 
-- **(Kolkata) July 2010 - Sept 2010** [Cognizant](https://www.cognizant.com/en_us) 
+- **(Kolkata) July 2010 - Sept 2010** [Cognizant](https://www.cognizant.com/en_us) <br>
  _(Software analyst trainee)_
     - Joined as a trainee and left during the training phase to pursue product development as a career.
     
@@ -74,8 +74,8 @@
 
 
 #### Initiatives/Position held
-- NGO work for [Abheda Foundation](https://abhedafoundation.org), in charge of delivering educational apps for teaching children in rural classrooms
- <br> [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/developer?id=Abheda+Foundation) <br>
+- NGO work for [![Abheda Foundation](https://img.shields.io/badge/Abheda-Foundation-yellow.svg?style=square&logo=android)](https://play.google.com/store/apps/developer?id=Abheda+Foundation)[Abheda Foundation](https://abhedafoundation.org), in charge of delivering educational apps for teaching children in rural classrooms
+ <br> [![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.noisyninja.abheda_droid)[![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.zabingo.englishcoursetutor)[![Android](https://img.shields.io/badge/Android-Google_Play-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.noisyninja.abheda_droid_hindi) <br>
 - Worked with designers and engineers from Israel, corresponding only through mail and chat to create games for mobile 
 - Participate in coding competitions like GoogleCodeJam and HackerEarth
 - Open source contributor in Github
