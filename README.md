@@ -1,6 +1,6 @@
 
 # Resume
-[![Github](https://img.shields.io/badge/Github-Profile-black.svg?style=square&logo=github)](https://github.com/ir2pid/) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-Profile-orange.svg?square&logo=stackoverflow)](https://stackoverflow.com/users/838355/ir2pid) [![HackerEarth](https://img.shields.io/badge/Hacker_Earth-Profile-blue.svg?style=square&logo=hackster)](https://www.hackerearth.com/@ir2pid) [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=square&logo=linkedin)](https://linkedin.com/in/ir2pid/)
+[![Github](https://img.shields.io/badge/Github-Profile-black.svg?style=for-the-badge&logo=github)](https://github.com/ir2pid/) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-Profile-orange.svg?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/838355/ir2pid) [![HackerEarth](https://img.shields.io/badge/Hacker_Earth-Profile-blue.svg?style=for-the-badge&logo=hackster)](https://www.hackerearth.com/@ir2pid) [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ir2pid/)
 
 ## About me:
 > 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of [ePay GmbH's](http://www.epay.de) Mobile team overseeing our all our mobile app development.
