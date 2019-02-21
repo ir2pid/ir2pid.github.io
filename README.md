@@ -1,6 +1,8 @@
 
 # Resume
-[![Github](https://img.shields.io/badge/Github-Profile-black.svg?style=for-the-badge&logo=github)](https://github.com/ir2pid/)    [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-Profile-orange.svg?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/838355/ir2pid) [![HackerEarth](https://img.shields.io/badge/Hacker_Earth-Profile-389938.svg?style=for-the-badge&logo=hulu)](https://www.hackerearth.com/@ir2pid)    [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ir2pid/)[![Xing](https://img.shields.io/badge/Linkedin-Profile-006567.svg?style=for-the-badge&logo=xing)]
+[![Github](https://img.shields.io/badge/Github-Profile-black.svg?style=for-the-badge&logo=github)](https://github.com/ir2pid/)    [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-Profile-orange.svg?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/838355/ir2pid) [![HackerEarth](https://img.shields.io/badge/Hacker_Earth-Profile-389938.svg?style=for-the-badge&logo=hulu)](https://www.hackerearth.com/@ir2pid)    [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ir2pid/)
+[![Xing](https://img.shields.io/badge/Xing-Profile-006567.svg?style=for-the-badge&logo=xing)](https://www.hackerearth.com/@ir2pid) 
+
 
 ## About me:
 > 8+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of [ePay GmbH's](http://www.epay.de) Mobile team overseeing our all our mobile app development.
