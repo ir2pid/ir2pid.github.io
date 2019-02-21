@@ -67,7 +67,8 @@
 #### Awards/Recognitions:
 
 - Recipient of Google Developer Challenge Scholarship in android stack 2017. 10+ certifications from  [lynda](http://www.lynda.com) on various mobile courses.
-- Samsung app of the year award 2011 for our game Find a Way Jose.
+- Samsung app of the year award 2011 for our game Find a Way Jose. <br>
+[![iOS](https://img.shields.io/badge/iOS-Commerzbank-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/us/app/find-a-way-jos%C3%A9-train-your-brain-with-puzzles/id504125305?mt=8) 
 - CCB Award for excellent performance in project, 2015 (Accenture).
 - 3 Blackberry playbook from Research In Motion for adding valuable apps to their store.
 - Won a BADA OS developer books from Samsung for adding valuable apps to their store.
@@ -77,9 +78,9 @@
 - NGO work for [Abheda Foundation](https://abhedafoundation.org), to deliver educational apps for teaching children in rural classrooms.
  <br> [![Android](https://img.shields.io/badge/Android-Abheda_Bengali-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.noisyninja.abheda_droid) [![Android](https://img.shields.io/badge/Android-Abheda_Hindi-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.noisyninja.abheda_droid_hindi) <br>
 - Worked with designers and engineers from Israel, corresponding only through mail and chat to create games for mobile.
-- Participate in coding competitions like GoogleCodeJam and HackerEarth.
-- Open source contributor in Github.
-- Active involvement in coding communities like stackoverflow.
+- Participate in coding competitions like [GoogleCodeJam](https://codingcompetitions.withgoogle.com/codejam) and [HackerEarth](https://www.hackerearth.com/@ir2pid).
+- Open source contributor in [Github](https://github.com/ir2pid/).
+- Active involvement in coding communities like [Stackoverflow](https://stackoverflow.com/users/838355/ir2pid).
 
 #### Sports
 - Sports enthusiasts, play games like Soccer, Cricket, Badminton, Table tennis.
