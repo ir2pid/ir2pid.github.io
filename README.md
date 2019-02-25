@@ -67,7 +67,8 @@
 ## Extra curricular activities
 #### Awards/Recognitions:
 
-- Recipient of Google Developer Challenge Scholarship in android stack 2017. 10+ certifications from  [lynda](http://www.lynda.com) on various mobile courses.
+- Recipient of Google Developer Challenge Scholarship in android stack 2017. 
+- 10+ certifications from  [lynda](http://www.lynda.com) on various mobile courses.
 - Samsung app of the year award 2011 for our game Find a Way Jose. <br>
 [![iOS](https://img.shields.io/badge/iOS-Find_a_way_José-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/us/app/find-a-way-jos%C3%A9-train-your-brain-with-puzzles/id504125305?mt=8) 
 - CCB Award for excellent performance in project, 2015 (Accenture).
