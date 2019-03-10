@@ -67,7 +67,7 @@
 #### Awards/Recognitions:
 
 - Recipient of Google Developer Challenge Scholarship in android stack 2017. 
-- 20+ certifications from  [lynda](http://www.lynda.com) on various mobile courses.[![Certificates](https://img.shields.io/badge/Certificates-Profile-FFBB00.svg?style=for-the-badge&logo=codecademy)](https://github.com/ir2pid/ir2pid.github.io/blob/master/certificates.pdf) 
+- 20+ certifications from  [lynda](http://www.lynda.com) on various mobile courses.[![Certificates](https://img.shields.io/badge/All-certificates-FFBB00.svg?style=square&logo=codecademy)](https://github.com/ir2pid/ir2pid.github.io/blob/master/certificates.pdf) 
 - Samsung app of the year award 2011 for our game Find a Way Jose. <br>
 [![iOS](https://img.shields.io/badge/iOS-Find_a_way_José-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/us/app/find-a-way-jos%C3%A9-train-your-brain-with-puzzles/id504125305?mt=8) 
 - CCB Award for excellent performance in project, 2015 (Accenture).
