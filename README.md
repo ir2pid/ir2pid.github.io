@@ -29,7 +29,7 @@
 - [ePay GmbH](http://www.epay.de) **(Munich) Nov 2018 - present** <br>
 [![iOS](https://img.shields.io/badge/iOS-Lendstar-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/de/app/lendstar-geld-senden/id639206003?mt=8) [![Android](https://img.shields.io/badge/Android-Lendstar-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de) [![iOS](https://img.shields.io/badge/iOS-Bay-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/cy/app/bay-lendstar-geld-senden/id1141022152) [![Android](https://img.shields.io/badge/Android-Bay-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.bay.app&hl=en) <br>
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
-    - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsideries and clients.
+    - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsidiaries and clients.
     
     
 - [Skoobe GmbH](http://www.skoobe.de) **(Munich) April 2017 - Nov 2018** <br>
