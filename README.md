@@ -26,7 +26,7 @@
 
 ## Experience
 
-- [ePay GmbH](http://www.epay.de) **(Munich) Nov 2018 - present** 
+- [ePay GmbH](http://www.epay.de) **(Munich) Nov 2018 - present** <br>
 [![iOS](https://img.shields.io/badge/iOS-XeCurrency-265699.svg?style=square&logo=apple)](https://apps.apple.com/app/apple-store/id315241195?mt=8) [![Android](https://img.shields.io/badge/Android-XeCurrency-265699.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.xe.currency&hl=en_IN&gl=US) <br>
 [![iOS](https://img.shields.io/badge/iOS-MeinGuthaben-3177ae.svg?style=square&logo=apple)](https://apps.apple.com/de/app/meinguthaben/id1499642066) [![Android](https://img.shields.io/badge/Android-MeinGuthaben-3177ae.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.meinguthaben)<br>
 [![iOS](https://img.shields.io/badge/iOS-RiaMoneyTransfer-ee6a2d.svg?style=square&logo=apple)](https://apps.apple.com/us/app/ria-money-transfer/id1065921908?mt=8) [![Android](https://img.shields.io/badge/Android-RiaMoneyTransfer-ee6a2d.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.ria.moneytransfer&hl=en_IN&gl=US) <br>
