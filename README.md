@@ -27,7 +27,7 @@
 ## Experience
 
 - [ePay GmbH](http://www.epay.de) **(Munich) Nov 2018 - present** <br>
-[![iOS](https://img.shields.io/badge/iOS-RiaMoneyTransfer-orange.svg?style=square&logo=apple)](https://apps.apple.com/us/app/ria-money-transfer/id1065921908?mt=8) [![Android](https://img.shields.io/badge/Android-Lendstar-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.lendstar.app&hl=de) [![iOS](https://img.shields.io/badge/iOS-Bay-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/cy/app/bay-lendstar-geld-senden/id1141022152) [![Android](https://img.shields.io/badge/Android-Bay-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.bay.app&hl=en) <br>
+[![iOS](https://img.shields.io/badge/iOS-RiaMoneyTransfer-orange.svg?style=square&logo=apple)](https://apps.apple.com/us/app/ria-money-transfer/id1065921908?mt=8) [![Android](https://img.shields.io/badge/Android-RiaMoneyTransfer-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=com.ria.moneytransfer&hl=en_IN&gl=US) [![iOS](https://img.shields.io/badge/iOS-Bay-lightgrey.svg?style=square&logo=apple)](https://itunes.apple.com/cy/app/bay-lendstar-geld-senden/id1141022152) [![Android](https://img.shields.io/badge/Android-Bay-green.svg?style=square&logo=android)](https://play.google.com/store/apps/details?id=de.bay.app&hl=en) <br>
  _Developing, deploying and maintaining financial apps, Android, iOS and Ionic (App Developer)_
     - Maintaining and creating new apps for [Euronet worldwide](https://euronetworldwide.com) subsidiaries and clients.
     
