@@ -23,7 +23,6 @@
 
 # Portfolio
 
-
 ## Experience
 
 - [ePay GmbH](http://www.epay.de) **(Munich) Nov 2018 - present** <br>
