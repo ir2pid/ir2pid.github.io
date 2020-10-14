@@ -56,7 +56,7 @@
  _LuckyLink(Application Developer)_
     - Worked as lead developer and as a point of contact for our clients.
 
-- [e-Force](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=27925) **(Kolkata) Sept 2010 - Mar 2013** <br> 
+- [e-Force](https://www.linkedin.com/company/eforce/) **(Kolkata) Sept 2010 - Mar 2013** <br> 
  _Context Wallet(Software Programer)_
     - Coordination and alignment with the mobile teams and backend teams. 
     - Acted as a point of contact with our main office in Huston Texas.
