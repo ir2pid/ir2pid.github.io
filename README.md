@@ -17,8 +17,8 @@
 
 | Level | Skills|
 | ------ | ------ |
-|High|Android, Java, Ionic, Git, Automated and Unit testing, design patterns, algorithms, code quality and maintenance,Jira, agile software development, Google app engine, Google analytics and Tag manager, REST services.|
-|Average|iOS, Objective C, Kotlin, Angular, Gradle, Continuous Integration, Continuous deployment, bash script, mobile security, Firebase, Jenkins, Appium, test driven development.|
+|High|Android, Java, Kotlin, Firebase, Flutter, Dart, Ionic, Git, Continuous Integration, Continuous deployment, Integration and Unit testing, design patterns, algorithms, code quality and maintenance, Jira, Agile software development, Google app engine, Google analytics and Tag manager, REST services.|
+|Average|iOS, Objective C, Angular, Gradle, bash script, mobile security, Jenkins, Appium, test driven development.|
 |Low|Swift, Javascript, J2EE, ant, photoshop.|
 
 # Portfolio
