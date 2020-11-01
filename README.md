@@ -5,6 +5,8 @@
 ## About me:
 > 10+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of [ePay GmbH's](http://www.epay.de) Mobile team overseeing our all our mobile app development.
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ir2pid)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Education:
 
 | University | Degree | Duration | Score|
