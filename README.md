@@ -5,8 +5,6 @@
 ## About me:
 > 10+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of [ePay GmbH's](http://www.epay.de) Mobile team overseeing our all our mobile app development.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ir2pid)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Education:
 
 | University | Degree | Duration | Score|
@@ -86,6 +84,8 @@
 - Participate in coding competitions like [GoogleCodeJam](https://codingcompetitions.withgoogle.com/codejam) and [HackerEarth](https://www.hackerearth.com/@ir2pid).
 - Open source contributor in [Github](https://github.com/ir2pid/).
 - Active involvement in coding communities like [Stackoverflow](https://stackoverflow.com/users/838355/ir2pid).
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ir2pid)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Sports
 - Sports enthusiasts, play games like Soccer, Cricket, Badminton, Table tennis.
