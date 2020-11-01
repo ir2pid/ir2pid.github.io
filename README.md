@@ -91,6 +91,6 @@
 - Played for school and class team in cricket and soccer.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ir2pid&show_icons=true&count_private=true&include_all_commits=true)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2pid)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2pid)](https://github.com/ir2pid/)
 
 
