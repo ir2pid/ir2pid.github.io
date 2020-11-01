@@ -90,5 +90,7 @@
 - Represented local club for under 13 and 15 club cricket in Cricket Association of Bengal’s inter club tournaments. 
 - Played for school and class team in cricket and soccer.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ir2pid)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ir2pid&show_icons=true&count_private=true&include_all_commits=true)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2pid)](https://github.com/anuraghazra/github-readme-stats)
+
 
