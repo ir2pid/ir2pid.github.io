@@ -9,9 +9,9 @@
 
 | University | Degree | Duration | Score|
 | ------ | ------ | ------ | ------ |
-| University of Mannheim| *Masters of Business Administration(Part-time)* | Sept2017 - Sept2019 | **1.6/5.0** *German grading |
-| B.P.P.IMT (West Bengal Institute of Technology)| *Masters of Computer Application* | Aug2007 - Apr2010 | **8.7/10.0** *Indian grading |
-| B.P.P.IMT (West Bengal Institute of Technology) | *Bachelors of Computer Application* | May2004 - Jun2007 | **8.2/10.0** *Indian grading |
+| University of Mannheim| *Masters in Business Administration(Part-time)* | Sept2017 - Sept2019 | **1.6/5.0** *German grading |
+| B.P.P.IMT (West Bengal Institute of Technology)| *Masters in Computer Application* | Aug2007 - Apr2010 | **8.7/10.0** *Indian grading |
+| B.P.P.IMT (West Bengal Institute of Technology) | *Bachelors in Computer Application* | May2004 - Jun2007 | **8.2/10.0** *Indian grading |
 
 ## Expertise:
 
