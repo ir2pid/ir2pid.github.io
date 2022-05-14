@@ -64,7 +64,7 @@ class _MenuButtonState extends State<MenuButton> with SingleTickerProviderStateM
         child: widget.child,
       ),
       builder: (_, child) {
-        final xOffset = 64 * _controller.value;
+        final xOffset = 32 * _controller.value;
         return Transform.translate(
           offset: Offset(xOffset, 0),
           child: child,

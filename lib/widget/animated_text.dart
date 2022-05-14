@@ -17,8 +17,7 @@ class AnimatedText extends StatefulWidget {
   _AnimatedTextState createState() => _AnimatedTextState();
 }
 
-class _AnimatedTextState extends State<AnimatedText>
-    with SingleTickerProviderStateMixin {
+class _AnimatedTextState extends State<AnimatedText> with SingleTickerProviderStateMixin {
   late AnimationController _controller;
 
   late Animation<Color?> _colorTween;

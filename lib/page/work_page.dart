@@ -87,7 +87,7 @@ class WorkPageState extends State<WorkPage> {
       return {
         'color': color.white,
         'background': theme.buttonColor,
-        'label': '•',
+        'label': '', //'•',
         'content': Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
