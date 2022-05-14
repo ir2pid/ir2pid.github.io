@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 
 import '../colors.dart';
+import '../constants.dart';
 import '../data/data.dart';
+import '../misc/custom_theme.dart';
+import '../misc/ui.dart';
 import '../page/base_page.dart';
 
 class AppTabBar extends StatelessWidget {
@@ -16,7 +19,7 @@ class AppTabBar extends StatelessWidget {
             IconButton(
               icon: Icon(
                 Icons.menu,
-                color: Colors.white,
+                color: theme.textColor,
               ),
               onPressed: () {
                 Scaffold.of(context).openDrawer();
@@ -32,28 +35,23 @@ class AppTabBar extends StatelessWidget {
               ),
             ),
             SizedBox(width: 16),
-            RichText(
-              text: TextSpan(
-                children: <TextSpan>[
-                  TextSpan(
-                    text: "${data.name}",
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 20,
-                    ),
+            Row(
+              children: [
+                ui.getH1(data.name),
+                SizedBox(width: constant.i4),
+                Container(
+                  width: constant.i8,
+                  height: constant.i8,
+                  margin: EdgeInsets.only(top: constant.i8),
+                  decoration: BoxDecoration(
+                    color: theme.buttonColor,
+                    shape: BoxShape.circle,
                   ),
-                  TextSpan(
-                    text: ' ●',
-                    style: TextStyle(
-                      fontWeight: FontWeight.bold,
-                      fontSize: 14,
-                      color: color.secondary,
-                    ),
-                  ),
-                ],
-              ),
+                )
+              ],
             ),
+            Flexible(fit: FlexFit.tight, child: SizedBox()),
+            ui.getIconButton(Icons.brightness_4, () => theme.toggleTheme()),
           ],
         ),
       ),

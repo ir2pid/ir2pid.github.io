@@ -22,17 +22,14 @@ class Navigation extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisSize: MainAxisSize.min,
             children: <Widget>[
-              Row(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  mainAxisAlignment: MainAxisAlignment.spaceAround,
-                  children: [
-                    SizedBox(
-                      width: constant.i128,
-                      height: constant.i128,
-                      child: ui.getAvatar(data.avatar),
-                    ),
-                    ui.getIconButton(Icons.brightness_4, () => theme.toggleTheme())
-                  ]),
+              Row(crossAxisAlignment: CrossAxisAlignment.start, mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
+                SizedBox(
+                  width: constant.i128,
+                  height: constant.i128,
+                  child: ui.getAvatar(data.avatar),
+                ),
+                ui.getIconButton(Icons.brightness_4, () => theme.toggleTheme())
+              ]),
               SizedBox(height: constant.i24),
               Row(
                 children: [
