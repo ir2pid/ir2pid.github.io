@@ -30265,7 +30265,7 @@ return A.a73(s,A.a7(new A.ar(r,new A.Mx(this),q),!0,q.j("aX.E")),B.zK,new A.qG()
 A.My.prototype={
 $0(){$.aaR()
 var s=t.s
-this.a.d=A.a([new A.hK("Skill",A.a([],s),"Level",0),new A.hK("",A.a(["android","java","kotlin","design patterns","CI/CD","TDD."],s),"High",1),new A.hK("",A.a(["iOS","firebase","Nodejs","flutter","app security","typescript"],s),"Average",2),new A.hK("",A.a(["Swift","Javascript","C++"],s),"Low",3)],t.tT)},
+this.a.d=A.a([new A.hK("Skill",A.a([],s),"Level",0),new A.hK("",A.a(["android","java","kotlin","design patterns","CI/CD","TDD."],s),"High",1),new A.hK("",A.a(["iOS","node","flutter","app security","typescript"],s),"Average",2),new A.hK("",A.a(["Swift","Javascript","C++"],s),"Low",3)],t.tT)},
 $S:0}
 A.Mv.prototype={
 $1(a){var s,r,q=null,p=A.ah(q,4,q),o=A.ah(q,q,4),n=$.ay(),m=$.V().y,l=n.hq(a)
