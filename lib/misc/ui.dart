@@ -104,10 +104,7 @@ class UI {
           },
           elevation: constant.elevation4,
           backgroundColor: theme.secondaryColor,
-          child: Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.center,
-              children: [ui.getIcon(iconData, constant.iconSmall)]),
+          child: Row(mainAxisAlignment: MainAxisAlignment.center, crossAxisAlignment: CrossAxisAlignment.center, children: [ui.getIcon(iconData, constant.iconSmall)]),
         ));
   }
 
@@ -191,9 +188,7 @@ class UI {
         if (loadingProgress == null) return child;
         return Center(
           child: CircularProgressIndicator(
-            value: loadingProgress.expectedTotalBytes != null
-                ? loadingProgress.cumulativeBytesLoaded / loadingProgress.expectedTotalBytes!
-                : null,
+            value: loadingProgress.expectedTotalBytes != null ? loadingProgress.cumulativeBytesLoaded / loadingProgress.expectedTotalBytes! : null,
           ),
         );
       },

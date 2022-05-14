@@ -43,19 +43,17 @@ class _MainPageState extends State<MainPage> {
 
   Widget _buildListDetail(bool forTablet) {
     return SingleChildScrollView(
-      padding: EdgeInsets.only(bottom: constant.padding32),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: <Widget>[
-          SizedBox(height: constant.padding32),
+          SizedBox(height: 30),
           Visibility(visible: !forTablet, child: AppTabBar()),
           AboutPage(keys[0]),
           EducationPage(keys[1]),
           WorkPage(keys[2]),
           ExtraPage(keys[3]),
           ExpertisePage(keys[4]),
-          pagePadding(),
-          pagePadding(),
+          SizedBox(height: constant.padding120),
         ],
       ),
     );

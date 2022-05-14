@@ -1,3 +1,4 @@
+import 'package:cv/constants.dart';
 import 'package:flutter/material.dart';
 
 import '../misc/ui.dart';
@@ -13,6 +14,6 @@ class BasePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ui.getCard(child);
+    return Center(child: Container(margin: constant.paddingAll18, child: ui.getCard(child)));
   }
 }

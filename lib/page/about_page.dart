@@ -55,18 +55,6 @@ class AboutPage extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           ui.getH8i(data.intro),
-                          /*SizedBox(height: constant.padding18),
-                          TextLink(),
-                          ui.getRichText(
-                              'MindInventory is first-rate choice of the '
-                              'clients worldwide. With sheer customer satisfaction in mind, we are profoundly '
-                              'dedicated to developing highly intriguing apps that strictly meet the business '
-                              'requirements and catering a wide spectrum of projects. Kickstart Your Digital '
-                              'Journey Today and get all your queries and concerns answered by our business '
-                              'development team. Our email address is sales@mindinventory.com, our website '
-                              'https://www.mindinventory.com and our Contact number is +91-951-229-3490',
-                              highlightTerm: "MindInventory",
-                              highlightUri: "http://www.facebook.com")*/
                         ],
                       ),
                     )

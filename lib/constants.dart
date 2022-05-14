@@ -8,6 +8,8 @@ class Constants {
   var padding32 = 48.0;
   var padding48 = 48.0;
   var padding54 = 54.0;
+  get padding100 => 100;
+  get padding120 => 120;
 
   get margin12 => 12;
 
