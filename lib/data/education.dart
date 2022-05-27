@@ -2,8 +2,7 @@ AllEducation allEducation = AllEducation();
 
 class AllEducation {
   all() {
-    Education header =
-        Education(id: 0, university: "University", degree: "Degree", duration: "Duration", score: "Score");
+    Education header = Education(id: 0, university: "University", degree: "Degree", duration: "Duration", score: "Score");
     Education mba = Education(
         id: 1,
         university: "University of Mannheim",
@@ -27,8 +26,7 @@ class AllEducation {
 }
 
 class Education {
-  Education(
-      {required this.id, required this.university, required this.degree, required this.duration, required this.score});
+  Education({required this.id, required this.university, required this.degree, required this.duration, required this.score});
 
   final String university;
   final String degree;

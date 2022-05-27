@@ -13,8 +13,7 @@ class AllExpertise {
     ]);
     Expertise average = Expertise(id: 2, level: "Average", skills: [
       "iOS",
-      "firebase",
-      "Nodejs",
+      "node",
       "flutter",
       "app security",
       "typescript",

@@ -47,7 +47,7 @@ class Navigation extends StatelessWidget {
                 ],
               ),
               SizedBox(height: constant.i4),
-              ui.getText(data.profession),
+              ui.getH7200(data.profession),
               SizedBox(height: constant.i32),
               ui.getMenuIconText(data.about, Icons.account_circle, onTap: () {
                 this.onTap(0);

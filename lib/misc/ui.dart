@@ -5,6 +5,7 @@ import 'package:custom_rich_text/custom_rich_text.dart';
 import 'package:custom_rich_text/models/read_more_less_model.dart';
 import 'package:cv/widget/download_button.dart';
 import 'package:flutter/material.dart';
+import 'package:lottie/src/lottie_builder.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
@@ -205,60 +206,67 @@ class UI {
     );
   }
 
-  Widget getH1(String text) {
+  Widget getText(String text, FontWeight fontWeight, double fontSize, [FontStyle fontStyle = FontStyle.normal, TextAlign textAlign = TextAlign.start]) {
     return Text(
       text,
+      textAlign: textAlign,
       style: TextStyle(
         //color: theme.textColor,
-        fontWeight: FontWeight.bold,
-        fontSize: constant.f24,
+        fontWeight: fontWeight,
+        fontStyle: fontStyle,
+        fontSize: fontSize,
       ),
     );
   }
 
-  Widget getText(String text) {
-    return Text(
-      text,
-      style: TextStyle(
-        //color: theme.textColor,
-        fontWeight: FontWeight.w200,
-        fontSize: constant.f16,
-      ),
-    );
+  Widget getH1(String text) {
+    return this.getText(text, FontWeight.bold, constant.f24);
   }
 
   Widget getH7(String text) {
-    return Text(
-      text,
-      style: TextStyle(
-        //color: theme.textColor,
-        fontWeight: FontWeight.w100,
-        fontSize: constant.f16,
-      ),
-    );
+    return this.getText(text, FontWeight.w100, constant.f16);
+  }
+
+  Widget getH7200(String text) {
+    return this.getText(text, FontWeight.w200, constant.f16);
   }
 
   Widget getH7i(String text) {
-    return Text(
-      text,
-      style: TextStyle(
-        //color: theme.textColor,
-        fontWeight: FontWeight.w100,
-        fontStyle: FontStyle.italic,
-        fontSize: constant.f16,
-      ),
-    );
+    return this.getText(text, FontWeight.w100, constant.f16, FontStyle.italic);
   }
 
   Widget getH8i(String text) {
-    return Text(
-      text,
-      style: TextStyle(
-        //color: theme.textColor,
-        fontWeight: FontWeight.w100,
-        fontStyle: FontStyle.italic,
-        fontSize: constant.f14,
-      ),
+    return this.getText(text, FontWeight.w100, constant.f14, FontStyle.italic);
+  }
+
+  Widget getH9i(String text) {
+    return this.getText(text, FontWeight.w100, constant.f12, FontStyle.italic, TextAlign.center);
+  }
+
+  getH9b(String text) {
+    return this.getText(text, FontWeight.w900, constant.f12, FontStyle.normal, TextAlign.center);
+  }
+
+  getH9(String text) {
+    return this.getText(text, FontWeight.w100, constant.f12, FontStyle.normal, TextAlign.center);
+  }
+
+  getH9bChip(String text) {
+    return getCard(
+        Padding(
+          padding: constant.paddingAll12,
+          child: ui.getH9b(text),
+        ),
+        color: theme.secondaryColor,
+        elevation: constant.elevation4);
+  }
+
+  getChip(String text, {String image = ""}) {
+    return Chip(
+      elevation: constant.elevation12,
+      padding: EdgeInsets.all(constant.i8),
+      backgroundColor: theme.buttonColor,
+      label: ui.getH9b(text),
     );
   }
 
@@ -320,64 +328,6 @@ class UI {
     );
   }
 
-  Widget getH9i(String text) {
-    return Text(
-      text,
-      textAlign: TextAlign.center,
-      style: TextStyle(
-        //color: theme.textColor,
-        fontWeight: FontWeight.w100,
-        fontStyle: FontStyle.italic,
-        fontSize: constant.f12,
-      ),
-    );
-  }
-
-  getH9b(String text) {
-    return Text(
-      text,
-      textAlign: TextAlign.center,
-      style: TextStyle(
-        //color: theme.textColor,
-        fontWeight: FontWeight.w900,
-        fontStyle: FontStyle.normal,
-        fontSize: constant.f12,
-      ),
-    );
-  }
-
-  getH9(String text) {
-    return Text(
-      text,
-      textAlign: TextAlign.center,
-      style: TextStyle(
-        //color: theme.textColor,
-        fontWeight: FontWeight.w100,
-        fontStyle: FontStyle.normal,
-        fontSize: constant.f12,
-      ),
-    );
-  }
-
-  getH9bChip(String text) {
-    return getCard(
-        Padding(
-          padding: constant.paddingAll12,
-          child: ui.getH9b(text),
-        ),
-        color: theme.secondaryColor,
-        elevation: constant.elevation4);
-  }
-
-  getChip(String text, {String image = ""}) {
-    return Chip(
-      elevation: constant.elevation12,
-      padding: EdgeInsets.all(constant.i8),
-      backgroundColor: theme.buttonColor,
-      label: ui.getH9b(text),
-    );
-  }
-
   showSnackBar(BuildContext context, String message) {
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
@@ -404,5 +354,9 @@ class UI {
       initialUrl: Uri.dataFromString(url, mimeType: 'text/html').toString(),
       javascriptMode: JavascriptMode.unrestricted,
     ));
+  }
+
+  container(Widget child, double width, double height) {
+    return Container(width: width, height: height, child: child);
   }
 }

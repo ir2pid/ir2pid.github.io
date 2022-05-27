@@ -1,14 +1,7 @@
 AllWork allWork = AllWork();
 
 class Work {
-  Work(
-      {required this.id,
-      required this.name,
-      required this.task,
-      required this.list,
-      required this.images,
-      required this.app,
-      required this.url});
+  Work({required this.id, required this.name, required this.task, required this.list, required this.images, required this.app, required this.url});
 
   final String name;
   final String task;
@@ -62,18 +55,17 @@ class AllWork {
   String get url5 => "https://www.webspiders.com/";
   String get url6 => "https://www.linkedin.com/company/eforce/";
   String get url7 => "https://www.cognizant.com/";
-  String get work0 => "Meta (Facebook Germany GmbH) (Berlin) Apr 2022 - present";
-  String get work1 => "Vanguard group Europe GmbH (Berlin) Jan 2022 - Mar 2022";
-  String get work2 => "ePay GmbH (Munich) Nov 2018 - Nov2021";
-  String get work3 => "Skoobe GmbH (Munich) April 2017 - Nov 2018";
-  String get work4 => "Accenture (Frankfurt am Main/Pune) Sept 2013 - March 2017";
-  String get work5 => "WebSpiders (Kolkata) Mar 2013 - July 2013";
-  String get work6 => "e-Force (Kolkata) Sept 2010 - Mar 2013";
-  String get work7 => "Cognizant (Kolkata) July 2010 - Sept 2010";
+  String get work0 => "Meta (Facebook Germany GmbH)\n(Berlin) Apr 2022 - present";
+  String get work1 => "Vanguard group Europe GmbH\n(Berlin) Jan 2022 - Mar 2022";
+  String get work2 => "ePay GmbH\n(Munich) Nov 2018 - Nov2021";
+  String get work3 => "Skoobe GmbH\n(Munich) April 2017 - Nov 2018";
+  String get work4 => "Accenture\n(Frankfurt am Main/Pune) Sept 2013 - March 2017";
+  String get work5 => "WebSpiders\n(Kolkata) Mar 2013 - July 2013";
+  String get work6 => "e-Force\n(Kolkata) Sept 2010 - Mar 2013";
+  String get work7 => "Cognizant\n(Kolkata) July 2010 - Sept 2010";
 
   String get task0 => "bootcamper";
-  String get task1 =>
-      "Working on the architecture of a unified one-app to replace all regional Vanguard investment apps";
+  String get task1 => "Working on the architecture of a unified one-app to replace all regional Vanguard investment apps";
   String get task2 => "Developing, deploying and maintaining financial apps, Android, iOS and Ionic";
   String get task3 => "Overseeing mobile development and CI/CD for Android and iOS";
   String get task4 => "Delivering the Commerzbank banking app (android)";
@@ -105,10 +97,7 @@ class AllWork {
         "• Worked with colleagues from more than 13 nationalities and lead multicultural teams."
       ];
   List<String> get list5 => ["• Worked as lead developer and as a point of contact for our clients."];
-  List<String> get list6 => [
-        "• Coordination and alignment with the mobile teams and backend teams.",
-        "• Acted as a point of contact with our main office in Huston Texas."
-      ];
+  List<String> get list6 => ["• Coordination and alignment with the mobile teams and backend teams.", "• Acted as a point of contact with our main office in Huston Texas."];
   List<String> get list7 => ["• Joined as a trainee and left to pursue product development as a career."];
 
 //images

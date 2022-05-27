@@ -3,6 +3,7 @@ import 'package:cv/data/expertise.dart';
 import 'package:cv/data/work.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:lottie/lottie.dart';
 import 'package:steps/steps.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -109,7 +110,7 @@ class WorkPageState extends State<WorkPage> {
                   Row(
                     children: [
                       SizedBox(width: constant.padding8),
-                      ui.getImageRectangle(value.image, size: constant.iconSmall, radius: constant.radius6),
+                      ui.getImageRectangle(value.image, size: constant.iconMedium, radius: constant.radius6),
                       SizedBox(width: constant.padding8),
                       ui.getH9(value.name),
                       SizedBox(width: constant.padding8),
@@ -120,6 +121,7 @@ class WorkPageState extends State<WorkPage> {
                             ),
                             color: theme.primaryColor,
                             child: Row(children: [
+                              //ui.container(Lottie.network('https://assets3.lottiefiles.com/packages/lf20_oabT72.json'), 128, 256),
                               ui.getAppIconText(data.googlePlay, FontAwesomeIcons.googlePlay, onTap: () {
                                 launch(value.googleplay);
                               }),
@@ -132,6 +134,7 @@ class WorkPageState extends State<WorkPage> {
                             ),
                             color: theme.primaryColor,
                             child: Row(children: [
+                              //ui.container(Lottie.network('https://assets8.lottiefiles.com/packages/lf20_4jkk6z.json'), 128, 256),
                               ui.getAppIconText(data.iosAppstore, FontAwesomeIcons.appStore, onTap: () {
                                 launch(value.appstore);
                               }),

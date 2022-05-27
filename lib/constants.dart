@@ -43,7 +43,7 @@ class Constants {
     paddingAllButton = EdgeInsets.fromLTRB(12, 2, 12, 2);
   }
 
-  get iconSmall => 24;
+  get iconSmall => 16;
   get iconMedium => 32;
   get iconLarge => 48;
   get iconXLarge => 64;

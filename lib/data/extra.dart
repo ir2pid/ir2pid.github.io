@@ -4,12 +4,7 @@ AllExtra allExtra = AllExtra();
 
 class AllExtra {
   List<Extra> all() {
-    var item01 = Item(
-        id: 0,
-        text: "Recipient of Google Developer Challenge Scholarship in android stack 2017.",
-        url: null,
-        app: null,
-        link: null);
+    var item01 = Item(id: 0, text: "Recipient of Google Developer Challenge Scholarship in android stack 2017.", url: null, app: null, link: null);
     var item02 = Item(
         id: 0,
         text: "20+ certifications from lynda on various mobile courses.",
@@ -28,27 +23,11 @@ class AllExtra {
             androidUrl: "",
             iosUrl: "image/apple.png",
             googleplay: "",
-            appstore:
-                "https://itunes.apple.com/us/app/find-a-way-jos%C3%A9-train-your-brain-with-puzzles/id504125305?mt=8"),
+            appstore: "https://itunes.apple.com/us/app/find-a-way-jos%C3%A9-train-your-brain-with-puzzles/id504125305?mt=8"),
         link: null);
-    var item04 = Item(
-        id: 0,
-        text: "CCB Award for excellent performance in project, 2015 (Accenture).",
-        url: null,
-        app: null,
-        link: null);
-    var item05 = Item(
-        id: 0,
-        text: "3 Blackberry playbook from Research In Motion for adding valuable apps to their store.",
-        url: null,
-        app: null,
-        link: null);
-    var item06 = Item(
-        id: 0,
-        text: "Won a BADA OS developer books from Samsung for adding valuable apps to their store.",
-        url: null,
-        app: null,
-        link: null);
+    var item04 = Item(id: 0, text: "CCB Award for excellent performance in project, 2015 (Accenture).", url: null, app: null, link: null);
+    var item05 = Item(id: 0, text: "3 Blackberry playbook from Research In Motion for adding valuable apps to their store.", url: null, app: null, link: null);
+    var item06 = Item(id: 0, text: "Won a BADA OS developer books from Samsung for adding valuable apps to their store.", url: null, app: null, link: null);
     var e1 = Extra(id: 0, title: "Awards/Recognitions", section: [item01, item02, item03, item04, item05, item06]);
 
     var app0 = App(
@@ -67,26 +46,10 @@ class AllExtra {
         url: "https://abhedafoundation.org/",
         app: app0,
         link: null);
-    var item12 = Item(
-        id: 0,
-        text: "Worked with designers and engineers from Israel, corresponding through chat to create games for mobile.",
-        app: null,
-        url: null,
-        link: null);
-    var item13 = Item(
-        id: 0,
-        text: "Participate in coding competitions like GoogleCodeJam and HackerEarth.",
-        url: null,
-        app: null,
-        link: null);
-    var item14 = Item(
-        id: 0, text: "Open source contributor in Github.", url: "https://github.com/ir2pid/", app: null, link: null);
-    var item15 = Item(
-        id: 0,
-        text: "Active involvement in coding communities like Stackoverflow.",
-        url: "https://stackoverflow.com/users/838355/ir2pid",
-        app: null,
-        link: null);
+    var item12 = Item(id: 0, text: "Worked with designers and engineers from Israel, corresponding through chat to create games for mobile.", app: null, url: null, link: null);
+    var item13 = Item(id: 0, text: "Participate in coding competitions like GoogleCodeJam and HackerEarth.", url: null, app: null, link: null);
+    var item14 = Item(id: 0, text: "Open source contributor in Github.", url: "https://github.com/ir2pid/", app: null, link: null);
+    var item15 = Item(id: 0, text: "Active involvement in coding communities like Stackoverflow.", url: "https://stackoverflow.com/users/838355/ir2pid", app: null, link: null);
     var e2 = Extra(id: 0, title: "Initiatives/Position held", section: [item11, item12, item13, item14, item15]);
 
     return [e1, e2];
