@@ -30258,7 +30258,7 @@ r=A.ah(o,18,o)
 q=$.ay()
 s.toString
 s=t.p
-q=A.a([new A.mz(1,B.vE,A.fE(A.a([q.Gf("11+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of the Mobile team at Meta.",B.P,14,B.aD)],s),B.X,B.t),o)],s)
+q=A.a([new A.mz(1,B.vE,A.fE(A.a([q.Gf("11+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of the Reality labs team at Meta.",B.P,14,B.aD)],s),B.X,B.t),o)],s)
 p=!(b.b>432)?A.fE(q,B.X,B.du):A.c_(q,B.X,B.F,B.t)
 return A.fE(A.a([new A.jh("About me",o),r,p],s),B.X,B.t)},
 $S:31}
