@@ -64,7 +64,7 @@ class AllWork {
   String get work6 => "e-Force\n(Kolkata) Sept 2010 - Mar 2013";
   String get work7 => "Cognizant\n(Kolkata) July 2010 - Sept 2010";
 
-  String get task0 => "bootcamper";
+  String get task0 => "Working in the Reality labs division at Meta.";
   String get task1 => "Working on the architecture of a unified one-app to replace all regional Vanguard investment apps";
   String get task2 => "Developing, deploying and maintaining financial apps, Android, iOS and Ionic";
   String get task3 => "Overseeing mobile development and CI/CD for Android and iOS";

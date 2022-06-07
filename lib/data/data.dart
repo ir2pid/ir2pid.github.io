@@ -11,14 +11,14 @@ class Data {
 
   var avatar = "image/avatar.png";
 
-  var intro = "11+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am part of the Mobile team at Meta.";
+  var intro = "11+ years of experience in Mobile development with Android, iOS and cross-platform technologies. Currently, I am working in the Reality labs division at Meta.";
 
   var stackoverflowUrl = "https://stackoverflow.com/users/838355/ir2pid";
   var instagramUrl = "https://www.instagram.com/ir2pid/";
   var githubUrl = "https://github.com/ir2pid";
   var linkedinUrl = "https://www.linkedin.com/in/ir2pid/";
 
-  var CV_URL = "https://github.com/ir2pid/ir2pid.github.io/blob/master/files/SudiptaDuttaCV.pdf";
+  var CV_URL = "https://drive.google.com/file/d/1TTUjX-tzBInZOzZUKAC_UFzt11PT2oLS/view?usp=sharing";
 
   String get about => "About";
   String get aboutMe => "About me";

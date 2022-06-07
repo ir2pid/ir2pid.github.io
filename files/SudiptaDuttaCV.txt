@@ -1,0 +1,101 @@
+ 
+
+PROFILE
+
+lam a software engineer with 11+ years
+of experience in Mobile development
+with Android, iOS and cross-platform
+technologies. Currently, | am part of the
+Reality labs division at Meta.
+
+My interests are in technology,
+photography, travel, football, and
+astronomy.
+
+PERSONAL DETAILS
+
+Address
+
+Berlin, Germany
+
+CONTACT
+eo ir2pid@gmail.com
+
+© hitps://ir2pid.github.io/
+
+@ https://www.linkedin.com/in/ir2pid/
+
+QO https://github.com/ir2pid
+
+Sudipta Dutta
+
+MOBILE DEVELOPER
+
+WORK EXPERIENCE
+
+@ SDE
+META/FACEBOOK EUROPE GMBH(BERLIN) Apr 2022 - present
+
+Part of the Reality labs division at Meta.
+
+@ Software engineer
+VANGUARD GROUP EUROPE GMBH (BERLIN) Jan 2022 - Mar 2022
+
+Working on the architecture of a unified one-app to replace all regional Vanguard investment apps
+
+@ Software engineer
+EPAY GMBH (MUNICH) Nov 2018 - Dec 2021
+
+Developing, deploying and maintaining financial apps, Android, iOS and lonic.
+Maintaining and creating new apps for Euronet worldwide subsidiaries and clients.
+
+@ Software engineer
+SKOOBE GMBH (MUNICH)
+
+Overseeing all mobile development including Android and iOs (Senior App Developer)
+Improving and maintaining our continuous integration and delivery platform.
+Working with testers, setting up automated test environments.
+
+Apr 2017 - Nov 2018
+
+@ Application Development Senior Analyst
+ACCENTURE (FRANKFURT AM MAIN/PUNE) Sept 2013 - Mar 2017
+
+Collaborated with the 2nd largest bank of Germany to digitize their banking services on iOS and Android.
+Work on build scripts, continuous integration and delivery.
+Took over the critical task of ensuring app security for the Bank's apps.
+
+@ Mobile Engineer
+WEBSPIDERS (KOLKATA) Mar 2013 - Jul 2013
+
+Worked on the iOS app and act as a point of contact for our clients.
+
+@ Software Engineer
+E-FORCE (KOLKATA) Sept 2010 - Mar 2013
+
+Worked on the android and iOS apps. Coordination and alignment with the mobile teams and backend
+teams.
+
+EDUCATION
+
+@ Masters in Business Administration(Part-time)
+
+UNIVERSITY OF MANNHEIM. Sept2017 - Sept2019
+
+@ Masters in Computer Application
+
+B.P.P.IMT (WEST BENGAL INSTITUTE OF TECHNOLOGY) Aug2007 - Apr2010
+
+@ Bachelors in Computer Application
+
+B.P.P.IMT (WEST BENGAL INSTITUTE OF TECHNOLOGY) May2004 - Jun2007
+
+SKILLS
+
+Android Kotlin Java Flutter lonic ci/cD ios Typescript
+
+EXTRA CURRICULAR ACTIVITIES INITIATIVES/POSITION HELD
+
+eo Samsung app of the year award 2011 for our e NGO work for Abheda Foundation, to deliver
+game Find a Way Jose. educational apps for children in rural classrooms.
+

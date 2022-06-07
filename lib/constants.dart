@@ -56,6 +56,7 @@ class Constants {
   get elevation12 => 12;
   get elevation4 => 4;
 
+  get f8 => 8;
   get f12 => 12;
   get f14 => 14;
   get f16 => 16;

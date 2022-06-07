@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'dart:ui';
 
+import 'package:auto_size_text/auto_size_text.dart';
 import 'package:custom_rich_text/custom_rich_text.dart';
 import 'package:custom_rich_text/models/read_more_less_model.dart';
 import 'package:cv/widget/download_button.dart';
@@ -207,7 +208,7 @@ class UI {
   }
 
   Widget getText(String text, FontWeight fontWeight, double fontSize, [FontStyle fontStyle = FontStyle.normal, TextAlign textAlign = TextAlign.start]) {
-    return Text(
+    return AutoSizeText(
       text,
       textAlign: textAlign,
       style: TextStyle(
@@ -216,7 +217,22 @@ class UI {
         fontStyle: fontStyle,
         fontSize: fontSize,
       ),
+      minFontSize: constant.f8,
+      maxLines: 3,
     );
+    /*return FittedBox(
+      fit: BoxFit.fitWidth,
+      child: Text(
+        text,
+        textAlign: textAlign,
+        style: TextStyle(
+          //color: theme.textColor,
+          fontWeight: fontWeight,
+          fontStyle: fontStyle,
+          fontSize: fontSize,
+        ),
+      ),
+    );*/
   }
 
   Widget getH1(String text) {

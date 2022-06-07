@@ -101,7 +101,7 @@ class _MainPageState extends State<MainPage> {
     return Scaffold(
       key: _scaffoldKey,
       body: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 12),
+        padding: EdgeInsets.symmetric(horizontal: constant.i4),
         child: _buildListDetail(false),
       ),
       drawer: Theme(
