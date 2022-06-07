@@ -30752,7 +30752,7 @@ return A.by([A.dT("https://www.linkedin.com/in/ir2pid/")],t.l)},
 $S:32}
 A.Qa.prototype={
 $0(){$.bW().toString
-return A.by([A.dT("https://github.com/ir2pid/ir2pid.github.io/blob/master/files/SudiptaDuttaCV.pdf")],t.l)},
+return A.by([A.dT("https://drive.google.com/file/d/1TTUjX-tzBInZOzZUKAC_UFzt11PT2oLS/view?usp=sharing")],t.l)},
 $S:32}
 A.jh.prototype={
 N(a,b){var s,r,q=null,p=$.ay()
