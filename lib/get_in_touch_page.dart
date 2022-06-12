@@ -65,8 +65,7 @@ class _GetInTouchPageState extends State<GetInTouchPage> {
       validator: (value) {
         if (value!.trim().isEmpty) {
           return 'The field is required';
-        } else if (isEmail &&
-            !RegExp(r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+").hasMatch(value)) {
+        } else if (isEmail && !RegExp(r"^[a-zA-Z0-9.a-zA-Z0-9.!#$%&'*+-/=?^_`{|}~]+@[a-zA-Z0-9]+\.[a-zA-Z]+").hasMatch(value)) {
           return "Invalid email";
         }
         return null;
@@ -240,7 +239,7 @@ class _GetInTouchPageState extends State<GetInTouchPage> {
       child: BasePage(
         color: Colors.white,
         child: Padding(
-          padding: constant.paddingSymmetric,
+          padding: constant.getPaddingPage(),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[

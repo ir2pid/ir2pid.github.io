@@ -29,26 +29,20 @@ class AboutPage extends StatelessWidget {
     return result;
   }
 
-  bool _isTabletSize(double maxWidth) {
-    return maxWidth > 4 * constant.d108;
-  }
-
   @override
   Widget build(BuildContext context) {
     return BasePage(
-      child: Padding(
-        padding: constant.paddingSymmetric,
-        child: LayoutBuilder(
-          builder: (_, constrain) {
-            final maxWidth = constrain.maxWidth;
-            final isTabletSize = _isTabletSize(maxWidth);
-            return Column(
+      child: LayoutBuilder(
+        builder: (_, constrain) {
+          return Padding(
+            padding: constant.getPaddingPage(isTablet: constant.isTablet(constrain)),
+            child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
                 PageTitle(data.aboutMe),
                 SizedBox(height: constant.padding18),
                 _multiChildLayout(
-                  forTablet: isTabletSize,
+                  forTablet: constant.isTablet(constrain),
                   children: <Widget>[
                     Flexible(
                       child: Column(
@@ -61,9 +55,9 @@ class AboutPage extends StatelessWidget {
                   ],
                 )
               ],
-            );
-          },
-        ),
+            ),
+          );
+        },
       ),
     );
   }

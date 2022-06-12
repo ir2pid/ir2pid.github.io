@@ -29,11 +29,28 @@ class UI {
     );
   }
 
-  Widget getWorkIconText(String title, {IconData? icon, VoidCallback? onTap}) {
-    return MenuButton(
-        onTap: onTap,
-        child: Padding(
-          padding: constant.paddingAll6,
+  Widget getWorkIconText(String title, {IconData? icon, VoidCallback? onTap, bool animate = true}) {
+    if (onTap == null) {
+      return Padding(
+        padding: constant.paddingAllLink,
+        child: Row(
+          children: <Widget>[
+            if (icon != null) ui.getIcon(icon, constant.iconSmall, color: theme.textColor),
+            if (icon != null) SizedBox(width: constant.i8),
+            ui.getH9(title),
+            SizedBox(width: constant.i8),
+          ],
+        ),
+      );
+    } else {
+      return SizedBox(
+        height: constant.d48, // <-- match_parent
+        child: TextButton(
+          style: TextButton.styleFrom(
+            primary: theme.textColor,
+            onSurface: theme.primaryColor,
+          ),
+          onPressed: onTap,
           child: Row(
             children: <Widget>[
               if (icon != null) ui.getIcon(icon, constant.iconSmall, color: theme.textColor),
@@ -42,7 +59,9 @@ class UI {
               SizedBox(width: constant.i8),
             ],
           ),
-        ));
+        ),
+      );
+    }
   }
 
   Widget getAppIconText(String title, IconData icon, {VoidCallback? onTap}) {

@@ -29,11 +29,11 @@ class ExtraPageState extends State<ExtraPage> {
   @override
   Widget build(BuildContext context) {
     return BasePage(
-      child: Padding(
-        padding: constant.paddingSymmetric,
-        child: LayoutBuilder(
-          builder: (_, constrain) {
-            return Column(crossAxisAlignment: CrossAxisAlignment.start, children: <Widget>[
+      child: LayoutBuilder(
+        builder: (_, constrain) {
+          return Padding(
+            padding: constant.getPaddingPage(isTablet: constant.isTablet(constrain)),
+            child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: <Widget>[
               PageTitle(data.extracurricular),
               ...allExtra.all().expand((value) => [
                     SizedBox(height: constant.padding18),
@@ -43,20 +43,15 @@ class ExtraPageState extends State<ExtraPage> {
                           Row(children: [
                             SizedBox(height: constant.padding8),
                             ui.getH9i("- ${element.text}"),
-                            if (element.link != null)
-                              ui.getWorkIconText("", icon: Icons.download, onTap: () => {launch(element.link!)}),
+                            if (element.link != null) ui.getWorkIconText("", icon: Icons.download, onTap: () => {launch(element.link!)}),
                           ]),
                           if (element.app != null)
                             Row(
                               children: [
                                 SizedBox(width: constant.padding8),
-                                ui.getImageRectangle(element.app!.image,
-                                    size: constant.iconSmall, radius: constant.radius6),
+                                ui.getImageRectangle(element.app!.image, size: constant.iconSmall, radius: constant.radius6),
                                 SizedBox(width: constant.padding8),
-                                if (element.app?.url != null)
-                                  ui.getWorkIconText(element.app!.name, onTap: () => {launch(element.app!.url)})
-                                else
-                                  ui.getH9b(element.app!.name),
+                                if (element.app?.url != null) ui.getWorkIconText(element.app!.name, onTap: () => {launch(element.app!.url)}) else ui.getH9b(element.app!.name),
                                 SizedBox(width: constant.padding8),
                                 if (element.app!.googleplay.length > 0)
                                   Material(
@@ -86,9 +81,9 @@ class ExtraPageState extends State<ExtraPage> {
                         })),
                     SizedBox(height: 4.0),
                   ]),
-            ]);
-          },
-        ),
+            ]),
+          );
+        },
       ),
     );
   }

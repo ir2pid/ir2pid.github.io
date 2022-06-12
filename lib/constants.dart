@@ -1,4 +1,7 @@
+import 'dart:html';
+
 import 'package:flutter/material.dart';
+import 'dart:developer';
 
 Constants constant = Constants();
 
@@ -13,7 +16,6 @@ class Constants {
 
   get margin12 => 12;
 
-  var d108 = 108.0;
   get i4 => 4;
   get i8 => 8;
   get i6 => 6;
@@ -21,26 +23,36 @@ class Constants {
   get i32 => 32;
   get i128 => 128;
 
-  var minTabletSize = 1080;
+  var minTabletSize = 704;
 
-  var paddingSymmetric = EdgeInsets.symmetric();
+  EdgeInsets getPaddingPage({bool isTablet = true}) {
+    var vertical = isTablet ? padding32 : padding8;
+    var horizontal = isTablet ? padding54 : padding18;
+    debugPrint('isTablet: $isTablet');
+    debugPrint('vertical: $vertical');
+    debugPrint('horizontal: $horizontal');
+
+    return EdgeInsets.symmetric(
+      vertical: vertical,
+      horizontal: horizontal,
+    );
+  }
+
   var paddingAll32 = EdgeInsets.symmetric();
   var paddingAll12 = EdgeInsets.symmetric();
   var paddingAll6 = EdgeInsets.symmetric();
   var paddingAll4 = EdgeInsets.symmetric();
   var paddingAllButton = EdgeInsets.symmetric();
+  var paddingAllLink = EdgeInsets.symmetric();
   var paddingAll18 = EdgeInsets.symmetric();
   Constants() {
-    paddingSymmetric = EdgeInsets.symmetric(
-      vertical: padding32,
-      horizontal: padding54,
-    );
     paddingAll32 = EdgeInsets.all(32);
     paddingAll18 = EdgeInsets.all(18);
     paddingAll12 = EdgeInsets.all(12);
     paddingAll6 = EdgeInsets.all(6);
     paddingAll4 = EdgeInsets.all(4);
     paddingAllButton = EdgeInsets.fromLTRB(12, 2, 12, 2);
+    paddingAllLink = EdgeInsets.fromLTRB(12, 6, 12, 6);
   }
 
   get iconSmall => 16;
@@ -55,6 +67,9 @@ class Constants {
 
   get elevation12 => 12;
   get elevation4 => 4;
+
+  get d48 => 48;
+  var d108 = 108.0;
 
   get f8 => 8;
   get f12 => 12;
@@ -72,4 +87,9 @@ class Constants {
   get border1 => 1;
   get border2 => 2;
   get border5 => 5;
+
+  isTablet(BoxConstraints constrain) {
+    debugPrint('maxWidth: ${constrain.maxWidth}');
+    return constrain.maxWidth >= this.minTabletSize;
+  }
 }

@@ -119,7 +119,7 @@ class _MainPageState extends State<MainPage> {
   Widget build(BuildContext context) {
     return LayoutBuilder(
       builder: (_, constrain) {
-        return constrain.maxWidth >= constant.minTabletSize ? _buildTabletBody(constrain.maxWidth) : _buildPhoneBody();
+        return constant.isTablet(constrain) ? _buildTabletBody(constrain.maxWidth) : _buildPhoneBody();
       },
     );
   }
